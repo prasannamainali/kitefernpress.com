@@ -28,6 +28,7 @@ assets/img/         favicon, app icon, logo, social-share image
 | Book | id to search for |
 |---|---|
 | Remember When (live) | `remember-when` |
+| Porch Light Christmas Word Search | `porch-light-christmas` |
 | Porch Light Word Search, Volume 2 | `porch-light-word-search-2` |
 | Porch Light Sudoku | `porch-light-sudoku` |
 | Grandma's Kitchen Table Stories | `grandmas-kitchen-table-stories` |
