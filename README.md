@@ -12,6 +12,7 @@ assets/css/style.css
 assets/js/main.js   book filters + "Coming soon" buttons (the site still works without it)
 assets/fonts/       Fraunces + Source Sans 3, self-hosted (SIL Open Font License)
 assets/img/covers/  the 10 front covers (640 px WebP)
+assets/img/prints/  the 15 Etsy printable wall art thumbnails (720 x 540 px WebP)
 assets/img/         favicon, app icon, logo, social-share image
 ```
 
@@ -114,6 +115,36 @@ Next:
 5. Test it by sending an email to hello@kitefernpress.com from another account.
 
 Email Routing only *receives* mail. To reply *as* hello@kitefernpress.com from Gmail, you need an outgoing mail (SMTP) service added under Gmail's "Send mail as". That's optional. Replying from your Gmail address works fine.
+
+---
+
+## Printable wall art (Etsy)
+
+The "Wall art" section (`id="prints"` in `index.html`) shows the Etsy prints from the kitefernpress shop
+(https://www.etsy.com/shop/kitefernpress). Each card links to its listing as `https://www.etsy.com/listing/LISTING-ID`.
+
+| Print | Listing ID |
+|---|---|
+| He Counts the Stars (Psalm 147:4) | 4584646077 |
+| The Heavens Declare (Psalm 19:1) | 4584654726 |
+| When I Consider Thy Heavens (Psalm 8:3) | 4584655148 |
+| New Every Morning (Lamentations 3:22-23) | 4584647365 |
+| Established Forever as the Moon (Psalm 89:37) | 4584656004 |
+| He Made the Stars Also (Genesis 1:16) | 4584739128 |
+| Look Now Toward Heaven (Genesis 15:5) | 4584732203 |
+| Shine as Lights in the World (Philippians 2:15) | 4584732507 |
+| The Nutcracker, Christmas Eve | 4584637541 |
+| Nutcracker Trio (Merry Christmas) | 4584641135 |
+| Waltz of the Snowflakes | 4584649924 |
+| Nutcracker Ornaments | 4584650330 |
+| Moon Scripture Set of 4 | 4584739970 |
+| Sun, Moon & Stars Set of 4 | 4584733127 |
+| Nutcracker Christmas Set of 4 | 4584653582 |
+
+To add a print: save a 720 x 540 px `.webp` of the listing's first photo in `assets/img/prints/`, copy one
+`<li class="print">…</li>` block in `index.html`, change the link, image and text, then commit and push.
+If you deactivate a listing (for example the Nutcracker prints after Christmas), remove or comment out its card
+so the link doesn't lead to an unavailable page.
 
 ---
 
