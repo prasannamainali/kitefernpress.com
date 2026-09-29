@@ -126,11 +126,26 @@ p { margin: 0; }
 .site-nav a:hover { color: var(--ink); background: var(--paper-2); }
 .site-nav .nav-cta { background: var(--ink); color: #fff; padding: 9px 16px; }
 .site-nav .nav-cta:hover { background: var(--fern); color: #fff; }
+.site-nav .nav-cta, .brand-name { white-space: nowrap; }
+.site-nav .nav-cta-etsy { background: #c44a33; }
+.site-nav .nav-cta-etsy:hover { background: #a93c28; color: #fff; }
 
 @media (max-width: 560px) {
   .site-nav a:not(.nav-cta) { display: none; }
   .brand-name { font-size: 1.2rem; }
   .brand img { width: 34px; height: 34px; }
+  .site-nav .nav-cta { padding: 9px 13px; font-size: .875rem; }
+}
+@media (max-width: 400px) {
+  .site-header .wrap { gap: 8px; }
+  .brand { gap: 7px; }
+  .brand-name { font-size: 1.05rem; }
+  .brand img { width: 30px; height: 30px; }
+  .site-nav { gap: 5px; }
+  .site-nav .nav-cta { padding: 8px 11px; font-size: .8125rem; }
+}
+@media (max-width: 350px) {
+  .brand-name { display: none; }
 }
 
 /* ---------- Buttons ---------- */
