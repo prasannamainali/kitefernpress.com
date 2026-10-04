@@ -29,18 +29,19 @@ assets/img/         favicon, app icon, logo, social-share image
 | Book | id to search for |
 |---|---|
 | Remember When (live) | `remember-when` |
-| Porch Light Christmas Word Search | `porch-light-christmas` |
+| Porch Light Christmas Word Search (live) | `porch-light-christmas` |
 | Porch Light Word Search, Volume 2 | `porch-light-word-search-2` |
-| Porch Light Sudoku | `porch-light-sudoku` |
+| Porch Light Sudoku (live) | `porch-light-sudoku` |
 | Grandma's Kitchen Table Stories | `grandmas-kitchen-table-stories` |
 | Grandpa's Front Porch Stories | `grandpas-front-porch-stories` |
 | Mom's Kitchen Table Stories | `moms-kitchen-table-stories` |
 | Dad's Front Porch Stories | `dads-front-porch-stories` |
-| Kite Trail Mazes | `kite-trail-mazes` |
+| Maze Quest (live; the renamed Kite Trail Mazes) | `maze-quest` |
+| Kite Trail Christmas | `kite-trail-christmas` |
 | Kite Trail Mazes Jr. | `kite-trail-mazes-jr` |
 | Caregiver Daily Log Book | `caregiver-daily-log-book` |
 
-Each book also has its own shareable link, for example `https://kitefernpress.com/#kite-trail-mazes`.
+Each book also has its own shareable link, for example `https://kitefernpress.com/#maze-quest`.
 
 Affiliate notes:
 - Get the link from Amazon Associates (the SiteStripe bar on the product page), or use the format `https://www.amazon.com/dp/ASIN?tag=YOURTAG-20`.
