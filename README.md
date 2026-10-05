@@ -11,7 +11,7 @@ robots.txt, sitemap.xml
 assets/css/style.css
 assets/js/main.js   book filters + "Coming soon" buttons (the site still works without it)
 assets/fonts/       Fraunces + Source Sans 3, self-hosted (SIL Open Font License)
-assets/img/covers/  the 10 front covers (640 px WebP)
+assets/img/covers/  the 16 front covers (640 px WebP)
 assets/img/prints/  the 15 Etsy printable wall art thumbnails (720 x 540 px WebP)
 assets/img/         favicon, app icon, logo, social-share image
 ```
