@@ -212,6 +212,8 @@ p { margin: 0; }
 .section-head { max-width: 720px; margin-bottom: 36px; }
 .section-head h2 { font-size: clamp(2rem, 3.8vw, 3rem); margin: 14px 0 14px; }
 .section-head p { color: var(--ink-2); font-size: 1.125rem; }
+.affiliate-note { margin: -8px 0 24px; font-size: .875rem; color: var(--ink-3); }
+.affiliate-note a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
 
 /* ---------- Filters ---------- */
 .filters { display: flex; flex-wrap: wrap; gap: 10px; margin: 0 0 36px; padding: 0; list-style: none; }
