@@ -12,6 +12,14 @@
     }
   });
 
+  // 1b) Books you can buy now come first; "Coming soon" books follow, each group in page order.
+  var grid = document.querySelector(".book-grid");
+  if (grid) {
+    Array.prototype.slice.call(grid.querySelectorAll(".book"))
+      .filter(function (b) { return b.querySelector("a.buy[aria-disabled]"); })
+      .forEach(function (b) { grid.appendChild(b); });
+  }
+
   // 2) Book filters ("Who's it for?")
   var chips = Array.prototype.slice.call(document.querySelectorAll(".chip[data-filter]"));
   var books = Array.prototype.slice.call(document.querySelectorAll(".book[data-collection]"));
