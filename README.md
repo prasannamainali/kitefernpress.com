@@ -34,8 +34,8 @@ assets/img/         favicon, app icon, logo, social-share image
 | Porch Light Sudoku (live) | `porch-light-sudoku` |
 | Grandma's Kitchen Table Stories | `grandmas-kitchen-table-stories` |
 | Grandpa's Front Porch Stories | `grandpas-front-porch-stories` |
-| Mom's Kitchen Table Stories | `moms-kitchen-table-stories` |
-| Dad's Front Porch Stories | `dads-front-porch-stories` |
+| Mom's Kitchen Table Stories (live) | `moms-kitchen-table-stories` |
+| Dad's Front Porch Stories (live) | `dads-front-porch-stories` |
 | Maze Quest (live; the renamed Kite Trail Mazes) | `maze-quest` |
 | Kite Trail Christmas | `kite-trail-christmas` |
 | Kite Trail Mazes Jr. | `kite-trail-mazes-jr` |
