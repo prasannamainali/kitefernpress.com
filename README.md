@@ -37,8 +37,8 @@ assets/img/         favicon, app icon, logo, social-share image
 | Mom's Kitchen Table Stories (live) | `moms-kitchen-table-stories` |
 | Dad's Front Porch Stories (live) | `dads-front-porch-stories` |
 | Maze Quest (live; the renamed Kite Trail Mazes) | `maze-quest` |
-| Kite Trail Christmas | `kite-trail-christmas` |
-| Kite Trail Mazes Jr. | `kite-trail-mazes-jr` |
+| Kite Trail Christmas (live) | `kite-trail-christmas` |
+| Kite Trail Mazes Jr. (live) | `kite-trail-mazes-jr` |
 | Caregiver Daily Log Book | `caregiver-daily-log-book` |
 
 Each book also has its own shareable link, for example `https://kitefernpress.com/#maze-quest`.
