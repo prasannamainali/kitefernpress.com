@@ -30,10 +30,10 @@ assets/img/         favicon, app icon, logo, social-share image
 |---|---|
 | Remember When (live) | `remember-when` |
 | Porch Light Christmas Word Search (live) | `porch-light-christmas` |
-| Porch Light Word Search, Volume 2 | `porch-light-word-search-2` |
+| Porch Light Word Search, Volume 2 (live) | `porch-light-word-search-2` |
 | Porch Light Sudoku (live) | `porch-light-sudoku` |
-| Grandma's Kitchen Table Stories | `grandmas-kitchen-table-stories` |
-| Grandpa's Front Porch Stories | `grandpas-front-porch-stories` |
+| Grandma's Kitchen Table Stories (live) | `grandmas-kitchen-table-stories` |
+| Grandpa's Front Porch Stories (live) | `grandpas-front-porch-stories` |
 | Mom's Kitchen Table Stories (live) | `moms-kitchen-table-stories` |
 | Dad's Front Porch Stories (live) | `dads-front-porch-stories` |
 | Maze Quest (live; the renamed Kite Trail Mazes) | `maze-quest` |
