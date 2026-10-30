@@ -30,7 +30,7 @@ assets/img/         favicon, app icon, logo, social-share image
 |---|---|
 | Remember When (live) | `remember-when` |
 | Porch Light Christmas Word Search (live) | `porch-light-christmas` |
-| Porch Light Word Search, Volume 2 (live) | `porch-light-word-search-2` |
+| Remember When, Volume 2 (live; the id keeps its old Porch Light name) | `porch-light-word-search-2` |
 | Porch Light Sudoku (live) | `porch-light-sudoku` |
 | Grandma's Kitchen Table Stories (live) | `grandmas-kitchen-table-stories` |
 | Grandpa's Front Porch Stories (live) | `grandpas-front-porch-stories` |
@@ -39,7 +39,7 @@ assets/img/         favicon, app icon, logo, social-share image
 | Maze Quest (live; the renamed Kite Trail Mazes) | `maze-quest` |
 | Kite Trail Christmas (live) | `kite-trail-christmas` |
 | Kite Trail Mazes Jr. (live) | `kite-trail-mazes-jr` |
-| Caregiver Daily Log Book | `caregiver-daily-log-book` |
+| Caregiver Daily Log Book (live) | `caregiver-daily-log-book` |
 
 Each book also has its own shareable link, for example `https://kitefernpress.com/#maze-quest`.
 
